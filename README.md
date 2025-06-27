@@ -46,3 +46,4 @@ Para verificar tu versión actual:
 pip --version
 ```
 # Enlace al repositorio
+https://github.com/santy171004/finales-python-readme-2025/tree/main
